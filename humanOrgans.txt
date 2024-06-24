@@ -1,0 +1,40 @@
+Pulmões
+Brônquios
+Traqueia
+Laringe
+Diafragma
+Coração
+Artérias
+Veias
+Capilares
+Sangue
+Boca
+Esôfago
+Estômago
+Intestino delgado
+Intestino grosso
+Fígado
+Pâncreas
+Vesícula biliar
+Ânus
+Rins
+Ureteres
+Bexiga
+Uretra
+Glândula pituitária
+Glândula tireóide
+Glândulas paratireoides
+Glândulas suprarrenais
+Pâncreas (parte endócrina)
+Gônadas (ovários ou testículos)
+Cérebro
+Medula espinhal
+Olhos
+Ouvidos
+Língua
+Pele
+Órgãos genitais masculinos
+Órgãos genitais femininos
+Baço
+Timo
+Apêndice
